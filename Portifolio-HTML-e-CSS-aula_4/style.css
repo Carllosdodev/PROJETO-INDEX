@@ -1,5 +1,8 @@
 body{
-    background-color:#63ABDB;
+    background-color:#0d0d0e;
     color: #63DBBD;
 }
 
+strong {
+    color: #63ABDB
+}
